@@ -1,0 +1,21 @@
+C:\Users\ASUS\source\repos\Rental Car System\Rental Car System\bin\Debug\Rental Car System.exe.config
+C:\Users\ASUS\source\repos\Rental Car System\Rental Car System\bin\Debug\Rental Car System.exe
+C:\Users\ASUS\source\repos\Rental Car System\Rental Car System\bin\Debug\Rental Car System.pdb
+C:\Users\ASUS\source\repos\Rental Car System\Rental Car System\obj\Debug\Rental Car System.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Rental Car System\Rental Car System\obj\Debug\Rental Car System.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\source\repos\Rental Car System\Rental Car System\obj\Debug\Rental_Car_System.Properties.Resources.resources
+C:\Users\ASUS\source\repos\Rental Car System\Rental Car System\obj\Debug\Rental Car System.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\Rental Car System\Rental Car System\obj\Debug\Rental Car System.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Rental Car System\Rental Car System\obj\Debug\Rental Car System.exe
+C:\Users\ASUS\source\repos\Rental Car System\Rental Car System\obj\Debug\Rental Car System.pdb
+C:\Users\ASUS\source\repos\Rental Car System\Rental Car System\obj\Debug\Rental_Car_System.DashboardForm.resources
+C:\Users\ASUS\source\repos\Rental Car System\Rental Car System\obj\Debug\Rental_Car_System.UC_Customer.resources
+C:\Users\ASUS\source\repos\Rental Car System\Rental Car System\obj\Debug\Rental_Car_System.CustomerForm.resources
+C:\Users\ASUS\source\repos\Rental Car System\Rental Car System\obj\Debug\Rental_Car_System.UC_Car.resources
+C:\Users\ASUS\source\repos\Rental Car System\Rental Car System\obj\Debug\Rental_Car_System.CarForm.resources
+C:\Users\ASUS\source\repos\Rental Car System\Rental Car System\obj\Debug\Rental_Car_System.UC_Reservation.resources
+C:\Users\ASUS\source\repos\Rental Car System\Rental Car System\obj\Debug\Rental_Car_System.ReservationForm1.resources
+C:\Users\ASUS\source\repos\Rental Car System\Rental Car System\obj\Debug\Rental_Car_System.UC_Dashboard.resources
+C:\Users\ASUS\source\repos\Rental Car System\Rental Car System\obj\Debug\Rental_Car_System.InfoReservationForm.resources
+C:\Users\ASUS\source\repos\Rental Car System\Rental Car System\obj\Debug\Rental_Car_System.ScheduleForm.resources
+C:\Users\ASUS\source\repos\Rental Car System\Rental Car System\obj\Debug\Rental_Car_System.UC_Schedule.resources
